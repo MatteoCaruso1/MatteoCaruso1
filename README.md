@@ -1,6 +1,6 @@
 ### Hi, I'm Matteo 👋
 
-I build apps and tools, usually to fix a problem I have myself, and ship them end to end: code, builds, releases.
+I build apps / tools and ship them end to end: code, builds, releases.
 
 **Public projects**
 
